@@ -1,3 +1,4 @@
+import CarCard from "./CarCard";
 import CustomButton from "./CustomButton";
 import CustomFilter from "./CustomFilter";
 import Footer from "./Footer";
@@ -7,7 +8,7 @@ import SearchBar from "./SearchBar";
 import SearchManufacturer from "./SearchManufacturer";
 
 export {
-    CustomButton, CustomFilter, Footer, Hero,
+    CarCard, CustomButton, CustomFilter, Footer, Hero,
     Navbar, SearchBar, SearchManufacturer
 };
 
